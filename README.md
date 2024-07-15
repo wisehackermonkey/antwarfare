@@ -12,7 +12,9 @@ oranbusiness@gmail.com
 
 
 ## Play the Game Online! 
-# [Click here to play the game online](https://ants.anoniononion.repl.co/)
+
+# [Click here to play the game online](https://editor.p5js.org/wisemonkey/sketches/AiBr402bM)
+or here [Click here to play the game online](https://ants.anoniononion.repl.co/)
 ![i.imgur.com/W1Tf6XF.jpg](https://i.imgur.com/W1Tf6XF.jpg)
 
 ---
